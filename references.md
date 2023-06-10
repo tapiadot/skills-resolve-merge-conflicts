@@ -1,3 +1,11 @@
-# References
+# Some references
 
-* octocat 1 😈
+This is a references file.
+
+This contains references.
+
+Interesting.
+
+## The reference
+
+* octocat 1 OMG 😈
